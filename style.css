@@ -1,9 +1,7 @@
 .header-bg {
   background-color: #264653;
 }
-.button-color {
-  background-color: #e76f51;
-}
+
 .img-gray {
   filter: grayscale(100%);
 }
@@ -12,4 +10,8 @@
 }
 .client-text-color {
   color: #e76f51;
+}
+.icon-color {
+  color: red;
+  text-align: center;
 }
